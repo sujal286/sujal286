@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Saha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img allign="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal286&label=Profile%20views&color=0e75b6&style=flat" alt="sujal286" /> </p>
 
 - 🌱 I’m currently learning **Backend development**
@@ -10,6 +9,7 @@
 - ⚡ Fun fact **Coding: Where every semicolon has the power to make or break your day!!**
 
 <h3 align="left">Connect with me:</h3>
+<img allign="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left">
 <a href="https://linkedin.com/in/sujal saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal saha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/freakop7047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="freakop7047" height="30" width="40" /></a>
